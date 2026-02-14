@@ -2,7 +2,7 @@
 
 ## 📝 Project Overview
 This project is a comprehensive data analysis and visualization of sales performance.
-![Superstore Sales Dashboard](Superstore_Sales.png)
+![Sales Dashboard](dashboard.png)
 ## 🚀 Features & Skills Used
 * **Data Cleaning:** Processed raw sales data using Excel functions for accuracy.
 * **Pivot Tables & Charts:** Transformed complex datasets into digestible visual summaries.
